@@ -16,5 +16,5 @@
 
 ## Analyse
 
-* Inleiding
+* [Inleiding](analyse/inleiding.md)
 

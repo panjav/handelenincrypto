@@ -88,12 +88,6 @@
   * Asset Paren
   * Beren en Stieren
 * Beurzen
-* Posities
-  * Het open en sluiten van posities
-  * Sizing
-* Portfolio Management
-  * Allocatie Model
-  * Soorten Orders
 * Orders
   * [Het Orderboek](handel/het-orderboek.md)
   * [Buy en Sell Walls](handel/buy-en-sell-walls.md)
@@ -105,8 +99,17 @@
     * Immediate-Or-Cancel Orders
     * Fill-or-Kill Orders
     * All-or-None Orders
+* Handelen op marge
+* Handelen met hefboom
 
 ## Analyse
 
 * [Inleiding](analyse/inleiding.md)
+
+## Strategie
+
+* Portfolio Management
+  * Allocatie Model
+  * Sizing
+  * Soorten Orders
 

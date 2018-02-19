@@ -59,8 +59,9 @@
     * Rekenkracht
   * Internet of Things
   * Leenplatforms
-* Initial Coin Offering
 * [Assets](assets.md)
+  * Inleiding
+  * [Initial Coin Offering](initial-coin-offering.md)
   * Bitcoin
     * Segwit
     * Lightening Netwerk

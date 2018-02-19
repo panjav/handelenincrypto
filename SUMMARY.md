@@ -8,8 +8,11 @@
 ## Crypto Assets
 
 * [Inleiding](inleiding.md)
+* [De verschillen](de-verschillen.md)
 
 ## Handel
+
+* Inleiding
 
 ## Analyse
 

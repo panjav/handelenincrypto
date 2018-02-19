@@ -158,5 +158,5 @@
 * Entry-strategieen
   * Re-entry-strategieen
 * [Exit-strategieen](strategie/exit-strategieen.md)
-* Meer informatie
+* [Meer informatie](strategie/meer-informatie.md)
 

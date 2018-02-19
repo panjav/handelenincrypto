@@ -25,11 +25,12 @@
   * [Technologieën](wallets/technologieen.md)
     * Niet deterministisch wallets
     * Deterministische wallets
-    * HD Wallets
+    * [Hiërarchisch Deterministische Wallets](wallets/technologieen/hd-wallets.md)
   * Paper Wallets
   * Software Wallets
   * Hardware Wallets
   * Online Wallets
+* Transacties
 
 ## Handel
 

@@ -9,8 +9,14 @@
 
 * [Inleiding](inleiding.md)
 * [De verschillen](de-verschillen.md)
+* Waarom Crypto?
 * [Technologieën](technologieen.md)
   * Inleiding
+  * Peer 2 Peer Netwerk
+  * Gedistribueerde Database
+  * Cryptografie
+    * Public & Private Key
+    * Hashing
 
 ## Handel
 

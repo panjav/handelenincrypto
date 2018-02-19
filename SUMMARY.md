@@ -30,7 +30,14 @@
   * Software Wallets
   * Hardware Wallets
   * Online Wallets
-* Transacties
+* [Transacties](transacties.md)
+  * [Bevestigingen](transacties/bevestigingen.md)
+* Blockchain
+  * Private Blockchains
+  * Publieke Blockchains
+  * Het ontleden van de term blockchain
+  * Het Grootboek
+  * [Double Spending Probleem](double-spending-probleem.md)
 
 ## Handel
 

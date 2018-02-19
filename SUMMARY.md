@@ -81,14 +81,22 @@
 ## Handel
 
 * [Inleiding](handel/inleiding.md)
-* De investerdeer en de handelaar
+* De investerdeer en handelaar
 * [Stijlen](handel/stijlen.md)
-* Markten
+* [Markten](handel/markten.md)
   * Inleiding
   * Asset Paren
   * Beren en Stieren
-* Beurzen
-* Orders
+* [Beurzen](handel/beurzen.md)
+  * Bittrex
+  * Binance
+  * Kraken
+  * Bl3p
+  * KuCoin
+* [Verkopers](handel/verkopers.md)
+  * Bitonic
+  * LiteBit
+* [Orders](handel/orders.md)
   * [Het Orderboek](handel/het-orderboek.md)
   * [Buy en Sell Walls](handel/buy-en-sell-walls.md)
   * [Soorten Orders](handel/soorten-orders.md)
@@ -99,8 +107,13 @@
     * Immediate-Or-Cancel Orders
     * Fill-or-Kill Orders
     * All-or-None Orders
-* Handelen op marge
-* Handelen met hefboom
+  * Kosten
+* [Handelen met derivaten](handel/handelen-met-cfds-en-futures.md)
+  * [Contract For Differences](handel/handelen-met-cfds-en-futures/contract-for-differences.md)
+  * Futures
+  * Short en Long
+* [Handelen met hefboom](handel/handelen-met-hefboom.md)
+* [Handelen op marge](handel/handelen-op-margr.md)
 
 ## Analyse
 

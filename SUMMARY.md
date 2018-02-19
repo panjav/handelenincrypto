@@ -37,7 +37,7 @@
   * Publieke Blockchains
   * Het ontleden van de term blockchain
   * Het Grootboek
-  * [Double Spending Probleem](double-spending-probleem.md)
+  * [Het Double Spending Probleem](double-spending-probleem.md)
 * [Mining](mining.md)
   * [Inleiding](inleiding_mining.md)
   * Proof of Work

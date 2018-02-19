@@ -155,5 +155,5 @@
 * Hedgen
 * Entry-strategieen
   * Re-entry-strategieen
-* Exit-strategieen
+* [Exit-strategieen](strategie/exit-strategieen.md)
 

@@ -64,7 +64,7 @@
   * [Initial Coin Offering](initial-coin-offering.md)
   * Bitcoin
     * Segwit
-    * Lightening Netwerk
+    * [Lightning Netwerk](lightening-netwerk.md)
   * Bitcoin Cash
   * Bitcoin Private
   * LiteCoin

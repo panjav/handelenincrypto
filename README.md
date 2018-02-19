@@ -8,7 +8,7 @@ Wat we ook zien is dat er veel mensen zijn die net starten met beleggen als gevo
 
 Met behulp van dit boek proberen wij door verdieping, heldere taal en voorbeelden een goed beeld te geven van de gehele de gehele crypto markt en handel in het algemeen. Een van de doelstellingen hierbij is om zoveel mogeljk ruis weg te laten en alleen de kern te behandelen.
 
-In het eerste hoofdstuk zullen
+\[TODO In het eerste hoofdstuk zullen..\]
 
 Het boek zal worden uitgegeven als open-source. Elk moment van de dag kunnen er wijzigingen plaatsvinden. Het boek is namelijk nooit af en door nieuwe inzichten kunnen onze opvattingen veranderen. Wil je bijdragen aan het boek dan kan dat middels een donatie. Een andere vorm van bijdrage is het verbeteren van bestaande teksten of het toevoegen van nieuwe teksten. Lees hiervoor de pagina [Meeschrijven? ](/meehelpen.md)Voor vragen of opmerkingen kan een [issue ](https://github.com/martijnburgers/handelenincrypto/issues)aangemaakt worden.
 

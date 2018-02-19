@@ -98,7 +98,9 @@
   * LiteBit
 * [Orders](handel/orders.md)
   * [Het Orderboek](handel/het-orderboek.md)
-  * [Buy en Sell Walls](handel/buy-en-sell-walls.md)
+    * Bid/Ask
+    * Spread
+    * [Buy en Sell Walls](handel/buy-en-sell-walls.md)
   * [Soorten Orders](handel/soorten-orders.md)
     * Market Orders
     * Limit Orders
@@ -124,11 +126,34 @@
   * Hoe beoordeel je een asset?
 * Technische Analyse
   * Grafieksoorten
+    * Bar Grafieken
+    * [Kaars Grafieken](analyse/kaars-grafieken.md)
+  * Trends
+  * Ranges
+    * Support en Resistance
+    * Average True Range
+  * Patronen
+    * Kop en schouders
+    * Dubbel top/dubbele bodem
+    * Driehoekpatronen
+  * Indicatoren
+    * [Volume](analyse/volumnr.md)
+    * Moving Averages
+    * Relative Strength Index
+    * MACD
+    * Fibonacci
+    * Stochastics
+    * Boilinger Bands
 
 ## Strategie
 
 * Portfolio Management
   * Allocatie Model
-  * Sizing
-  * Soorten Orders
+* [Positiegrote](strategie/sizing.md)
+  * Layering
+  * [Pyramiding](strategie/sizing/pyrimiding.md)
+* Hedgen
+* Entry-strategieen
+  * Re-entry-strategieen
+* Exit-strategieen
 

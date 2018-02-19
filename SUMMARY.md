@@ -81,6 +81,20 @@
 ## Handel
 
 * [Inleiding](handel/inleiding.md)
+* De investerdeer en de handelaar
+* [Stijlen](handel/stijlen.md)
+* Markten
+  * Inleiding
+  * Asset Paren
+  * Beren en Stieren
+* Posities
+  * Het open en sluiten van posities
+  * Sizing
+* Portfolio Management
+  * Allocatie Model
+* Orders
+  * Het orderboek
+  * Buy en Sell walls
 
 ## Analyse
 

@@ -17,6 +17,19 @@
   * Cryptografie
     * Public & Private Key
     * Hashing
+* [Wallets](wallets.md)
+  * [Adressen](wallets/adressen.md)
+    * Introductie
+    * Multisig
+    * Vanity Adressen
+  * [Technologieën](wallets/technologieen.md)
+    * Niet deterministisch wallets
+    * Deterministische wallets
+    * HD Wallets
+  * Paper Wallets
+  * Software Wallets
+  * Hardware Wallets
+  * Online Wallets
 
 ## Handel
 

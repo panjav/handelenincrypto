@@ -10,9 +10,5 @@ Met behulp van dit boek proberen wij door verdieping, heldere taal en voorbeelde
 
 In het eerste hoofdstuk zullen
 
-boek is voor handelaren en investerdeerders.
-
 Omdat het boek open-source is kunnen er op elke moment van de dag wijzigingen plaatsvinden. Het boek is namelijk nooit af en door nieuwe inzichten en ervaring kunnen onze opvattingen veranderen.
-
-
 

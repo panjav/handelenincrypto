@@ -60,7 +60,7 @@
   * Internet of Things
   * Leenplatforms
 * [Assets](assets.md)
-  * Inleiding
+  * [Inleiding](inleiding.md)
   * [Initial Coin Offering](initial-coin-offering.md)
   * Bitcoin
     * Segwit

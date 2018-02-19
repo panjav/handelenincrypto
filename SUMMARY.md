@@ -9,6 +9,8 @@
 
 * [Inleiding](inleiding.md)
 * [De verschillen](de-verschillen.md)
+* [Technologieën](technologieen.md)
+  * Inleiding
 
 ## Handel
 

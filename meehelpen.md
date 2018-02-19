@@ -20,7 +20,7 @@ Het formaat waarin dit boek is geschreven betreft [Markdown](https://en.wikipedi
 
 6. Open de [Gitbook Editor](https://www.gitbook.com/editor) en ga in het menu `Gitbook Editor` naar `open`. Selecteer daar de locatie van het boek.
 
-7. Het boek is nu geoppend en kan je van start. Sla regelmatig je aanpassingen op. De wijzigingen worden alleen lokaal opgeslagen. Met behulp van de knop `Publish & Sync` worden de aanpassingen ook naar het gekoppelde Github account verstuurd.
+7. Het boek is nu geoppend en kan je van start. Sla regelmatig je aanpassingen op. De wijzigingen worden alleen lokaal opgeslagen. Met behulp van de knop `Publish & Sync` \(naast de save knop\) worden de aanpassingen ook naar het gekoppelde Github account verstuurd.
 
 8. Als je op een gegeven moment de wijzigingen graag in het [originele boek](https://github.com/martijnburgers/handelenincrypto) wilt laten opnemen dan kan dat via een [pull request](https://help.github.com/articles/about-pull-requests/). [Voordat je dat doet dien je eerst de laatste versie van het originele boek in jouw kopie binnen te halen](https://help.github.com/articles/syncing-a-fork/). Het kan natuurlijk zijn dat je inmiddels weer achter loopt omdat andere aanpassingen in het originele boek zijn gedaan. Het is sowieso verstandig om dit regelmatig te doen.
 

@@ -8,14 +8,19 @@ Het formaat waarin dit boek is geschreven betreft [Markdown](https://en.wikipedi
 
 1. Maak een account aan op [Github](https://github.com/).
 
-2. Installeer de Github Desktop Client of een andere Git client naar keuze.
+2. Fork de [Handelen in Crypto repository](https://github.com/martijnburgers/handelenincrypto). Dit zorgt ervoor dat je kopie maakt van het boek in je eigen [Github ](https://github.com/)account. Dit is de kopie waarop je je wijzingen zult maken.
 
-3. Fork de [Handelen in Crypto repository](https://github.com/martijnburgers/handelenincrypto). Dit zorgt ervoor dat je kopie maakt van het boek in je eigen [Github ](https://github.com/)account. Dit is de kopie waarop je je wijzingen zult maken.
+3. Installeer de [Github Desktop Client](https://desktop.github.com/) of een andere [Git ](https://git-scm.com/)client naar keuze.
 
-4. Clone de kopie naar je eigen computer.
+4. Clone de kopie van het boek \(je eigen repository\) naar je eigen computer.
 
 5. Installeer de [Gitbook Editor](https://www.gitbook.com/editor).
 
-6. 
+6. Open de [Gitbook Editor](https://www.gitbook.com/editor) en ga in het menu `Gitbook Editor` naar `open`. Selecteer daar de locatie van het boek.
+
+7. Het boek is nu geoppend en kan je van start. Sla regelmatig je aanpassingen op. De wijzigingen worden alleen lokaal opgeslagen.
+
+
+
 
 

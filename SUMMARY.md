@@ -12,7 +12,7 @@
 
 ## Handel
 
-* Inleiding
+* [Inleiding](handel/inleiding.md)
 
 ## Analyse
 

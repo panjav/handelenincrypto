@@ -10,6 +10,7 @@
 * [Inleiding](inleiding.md)
 * [De verschillen](de-verschillen.md)
 * Waarom Crypto?
+  * Toepassingen
 * [Technologieën](technologieen.md)
   * [Inleiding](technologieen/inleiding.md)
   * Peer 2 Peer Netwerk
@@ -45,6 +46,37 @@
   * Proof of Burn
   * Proof of Elapsed Time
   * Proof of Existence
+  * Hardware
+* Toepassingen
+  * Virtuele Valuta
+  * Smart Contracts
+  * Weddenschappen
+  * Porno
+  * Notaris
+  * Stemmen
+  * Clouddiensten
+    * Opslag
+    * Rekenkracht
+  * Internet of Things
+  * Leenplatforms
+* Initial Coin Offering
+* [Assets](assets.md)
+  * Bitcoin
+    * Segwit
+    * Lightening Netwerk
+  * Bitcoin Cash
+  * Bitcoin Private
+  * LiteCoin
+  * Ether
+  * Ripple
+  * Neo
+  * Stellar
+  * Cardana
+  * IOTA
+  * Monero
+  * Dash
+
+## Initial Coin Offering
 
 ## Handel
 

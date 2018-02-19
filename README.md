@@ -10,5 +10,5 @@ Met behulp van dit boek proberen wij door verdieping, heldere taal en voorbeelde
 
 In het eerste hoofdstuk zullen
 
-Omdat het boek open-source is kunnen er op elke moment van de dag wijzigingen plaatsvinden. Het boek is namelijk nooit af en door nieuwe inzichten en ervaring kunnen onze opvattingen veranderen.
+Het boek zal worden uitgegeven als open-source. Elk moment van de dag kunnen er wijzigingen plaatsvinden. Het boek is namelijk nooit af en door nieuwe inzichten kunnen onze opvattingen veranderen. Wil je bijdragen aan het boek dan kan dat middels een donatie. Een andere vorm van bijdrage is het verbeteren van bestaande teksten of het toevoegen van nieuwe teksten. Hiervoor kan je gebruik maken van een [pull request](https://help.github.com/articles/about-pull-requests/). Voor vragen of opmerkingen kan een [issue ](https://github.com/martijnburgers/handelenincrypto/issues)aangemaakt worden.
 

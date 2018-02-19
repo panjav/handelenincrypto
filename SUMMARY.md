@@ -4,6 +4,7 @@
 
 * [Inleiding](README.md)
 * [Auteurs](auteurs.md)
+* [Meeschrijven?](meehelpen.md)
 
 ## Crypto Assets
 

@@ -75,6 +75,7 @@
   * IOTA
   * Monero
   * Dash
+* [Meer informatie](meer-informatie.md)
 
 ## Initial Coin Offering
 

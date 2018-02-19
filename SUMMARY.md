@@ -21,7 +21,7 @@
 * [Wallets](wallets.md)
   * [Adressen](wallets/adressen.md)
     * Introductie
-    * Multisig
+    * [Multisig Adressen](wallets/adressen/multisig.md)
     * Vanity Adressen
   * [Technologieën](wallets/technologieen.md)
     * Niet deterministisch wallets

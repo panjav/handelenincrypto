@@ -118,6 +118,12 @@
 ## Analyse
 
 * [Inleiding](analyse/inleiding.md)
+* Fundamentele Analyse
+  * Inleiding
+  * Hoe beoordeel je een ICO?
+  * Hoe beoordeel je een asset?
+* Technische Analyse
+  * Grafieksoorten
 
 ## Strategie
 

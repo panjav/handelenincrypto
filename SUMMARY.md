@@ -108,6 +108,7 @@
     * Immediate-Or-Cancel Orders
     * Fill-or-Kill Orders
     * All-or-None Orders
+    * Conditionele Orders
   * Kosten
 * [Handelen met derivaten](handel/handelen-met-cfds-en-futures.md)
   * [Contract For Differences](handel/handelen-met-cfds-en-futures/contract-for-differences.md)
@@ -115,6 +116,7 @@
   * Short en Long
 * [Handelen met hefboom](handel/handelen-met-hefboom.md)
 * [Handelen op marge](handel/handelen-op-margr.md)
+* [Meer informatie](handel/meer-informatie.md)
 
 ## Analyse
 
@@ -143,6 +145,7 @@
     * Fibonacci
     * Stochastics
     * Boilinger Bands
+* [Meer informatie](analyse/meer-informatie.md)
 
 ## Strategie
 
@@ -155,4 +158,5 @@
 * Entry-strategieen
   * Re-entry-strategieen
 * [Exit-strategieen](strategie/exit-strategieen.md)
+* Meer informatie
 

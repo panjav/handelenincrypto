@@ -87,14 +87,24 @@
   * Inleiding
   * Asset Paren
   * Beren en Stieren
+* Beurzen
 * Posities
   * Het open en sluiten van posities
   * Sizing
 * Portfolio Management
   * Allocatie Model
+  * Soorten Orders
 * Orders
-  * Het orderboek
-  * Buy en Sell walls
+  * [Het Orderboek](handel/het-orderboek.md)
+  * [Buy en Sell Walls](handel/buy-en-sell-walls.md)
+  * [Soorten Orders](handel/soorten-orders.md)
+    * Market Orders
+    * Limit Orders
+    * Stop Orders
+    * Good-Til-Cancelled Orders
+    * Immediate-Or-Cancel Orders
+    * Fill-or-Kill Orders
+    * All-or-None Orders
 
 ## Analyse
 

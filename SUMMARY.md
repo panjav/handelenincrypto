@@ -11,7 +11,7 @@
 * [De verschillen](de-verschillen.md)
 * Waarom Crypto?
 * [Technologieën](technologieen.md)
-  * Inleiding
+  * [Inleiding](technologieen/inleiding.md)
   * Peer 2 Peer Netwerk
   * Gedistribueerde Database
   * Cryptografie
@@ -38,8 +38,8 @@
   * Het ontleden van de term blockchain
   * Het Grootboek
   * [Double Spending Probleem](double-spending-probleem.md)
-* Mining
-  * [Inleiding](inleiding.md)
+* [Mining](mining.md)
+  * [Inleiding](inleiding_mining.md)
   * Proof of Work
   * Proof of Stake
   * Proof of Burn

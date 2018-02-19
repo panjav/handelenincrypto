@@ -7,6 +7,8 @@
 
 ## Crypto Assets
 
+* [Inleiding](inleiding.md)
+
 ## Handel
 
 ## Analyse

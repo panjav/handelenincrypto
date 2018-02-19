@@ -38,6 +38,13 @@
   * Het ontleden van de term blockchain
   * Het Grootboek
   * [Double Spending Probleem](double-spending-probleem.md)
+* Mining
+  * [Inleiding](inleiding.md)
+  * Proof of Work
+  * Proof of Stake
+  * Proof of Burn
+  * Proof of Elapsed Time
+  * Proof of Existence
 
 ## Handel
 

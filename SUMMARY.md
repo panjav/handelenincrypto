@@ -10,7 +10,6 @@
 * [Inleiding](inleiding.md)
 * [De verschillen](de-verschillen.md)
 * Waarom Crypto?
-  * Toepassingen
 * [Technologieën](technologieen.md)
   * [Inleiding](technologieen/inleiding.md)
   * Peer 2 Peer Netwerk

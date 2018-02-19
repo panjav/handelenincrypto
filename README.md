@@ -6,7 +6,7 @@ De investeerder zal deze asset class gebruiken voor de diversificatie van haar o
 
 Wat we ook zien is dat er veel mensen zijn die net starten met beleggen als gevolg van de hype rondom crypto assets. Het vershil met andere assets classes is echter aanzienlijk. De volatiliteit van de markt is over het algemeen zeer hoog waardoor het risico ten opzicht van andere asset classes ook groter is. Door de juiste analyses en handel strategieen toe te passen kan dit risico beperkt worden maar dit verlangt toeweiding en discipline van de investerdeerder.
 
-Met behulp van dit boek proberen wij door verdieping, heldere taal en voorbeelden een goed beeld te geven van de gehele de gehele crypto markt en handel in het algemeen. Een van de doelstellingen hierbij is om zoveel mogeljk ruis weg te laten en alleen de kern te bespreken.
+Met behulp van dit boek proberen wij door verdieping, heldere taal en voorbeelden een goed beeld te geven van de gehele de gehele crypto markt en handel in het algemeen. Een van de doelstellingen hierbij is om zoveel mogeljk ruis weg te laten en alleen de kern te behandelen.
 
 In het eerste hoofdstuk zullen
 

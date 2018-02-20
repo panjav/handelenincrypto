@@ -1,10 +1,10 @@
 ### Meeschrijven?
 
-Vindt je het leuk om mee te schrijven aan dit boek? Dat kan en mag. Voor het schrijven van het boek gebruiken wij [GitBook Editor](https://www.gitbook.com/editor) en [Github ](https://github.com/)voor versiebeheer.
+Vindt je het leuk om mee te schrijven aan dit boek? Dat mag! Voor het schrijven van het boek gebruiken wij [GitBook Editor](https://www.gitbook.com/editor) en [Github ](https://github.com/)voor het versiebeheer.
 
-Bijdragen aan het boek worden alleen behandeld via [pull requests.](https://help.github.com/articles/about-pull-requests/) Op deze manier kunnen we inzendingen op een efficiente manier verwerken.
+Bijdragen aan het boek worden alleen behandeld via [pull requests.](https://help.github.com/articles/about-pull-requests/) Op deze manier kunnen we inzendingen op een efficiënte manier verwerken.
 
-Het formaat waarin dit boek is geschreven betreft [Markdown](https://en.wikipedia.org/wiki/Markdown). Een simpele opmaaktaal welke eenvoudig te converteren is naar HTML.
+Het formaat waarin dit boek wordt geschreven is [Markdown](https://en.wikipedia.org/wiki/Markdown). Een simpele opmaaktaal welke eenvoudig te converteren is naar HTML.
 
 ### Hoe te beginnen?
 
@@ -18,9 +18,9 @@ Het formaat waarin dit boek is geschreven betreft [Markdown](https://en.wikipedi
 
 5. Installeer de [Gitbook Editor](https://www.gitbook.com/editor).
 
-6. Open de [Gitbook Editor](https://www.gitbook.com/editor) en ga in het menu `Gitbook Editor` naar `open`. Selecteer daar de locatie van het boek.
+6. Open de [Gitbook Editor](https://www.gitbook.com/editor) en ga in het menu `Gitbook Editor` naar `open`. Selecteer daar de locatie van het boek. \(In Windows is dit meestal: Documents\Github\)
 
-7. Het boek is nu geoppend en kan je van start. Sla regelmatig je aanpassingen op. De wijzigingen worden alleen lokaal opgeslagen. Met behulp van de knop `Publish & Sync` \(naast de save knop\) worden de aanpassingen ook naar het gekoppelde Github account verstuurd.
+7. Het boek is geopend en nu kan je van start. Sla regelmatig je aanpassingen op. De wijzigingen worden alleen lokaal opgeslagen. Met behulp van de knop `Publish & Sync` \(naast de save knop rechtsboven\) worden de aanpassingen ook naar het gekoppelde Github account verstuurd.
 
 8. Als je op een gegeven moment de wijzigingen graag in het [originele boek](https://github.com/martijnburgers/handelenincrypto) wilt laten opnemen dan kan dat via een [pull request](https://help.github.com/articles/about-pull-requests/). [Voordat je dat doet dien je eerst de laatste versie van het originele boek in jouw kopie binnen te halen](https://help.github.com/articles/syncing-a-fork/). Het kan natuurlijk zijn dat je inmiddels weer achter loopt omdat andere aanpassingen in het originele boek zijn gedaan. Het is sowieso verstandig om dit regelmatig te doen.
 

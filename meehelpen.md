@@ -28,3 +28,7 @@ Het formaat waarin dit boek wordt geschreven is [Markdown](https://en.wikipedia.
 
 
 
+Toevoegen hoe te syncen met upstream
+
+
+
